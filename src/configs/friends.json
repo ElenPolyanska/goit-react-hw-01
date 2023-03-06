@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://files.nohat.cc/file-tmp/visualhunter-185ec98f08.png",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://files.nohat.cc/file-tmp/visualhunter-a8bd1f9386.png",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://files.nohat.cc/file-tmp/visualhunter-1c064b8e68.png",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://files.nohat.cc/file-tmp/visualhunter-474c3ad878.png",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://files.nohat.cc/file-tmp/visualhunter-7c1def4f69.png",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
